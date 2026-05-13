@@ -309,7 +309,7 @@ scripts/build_dataset_info.py      # aggregates statistics across all images
 
 ```bibtex
 @misc{div2kvf_2026,
-  author       = {Nasfi, Aya and Florea, Bianca-Maria and Hou, Jingkun},
+  author       = {*****},
   title        = {div2KVF: A Multi-Task Image Processing Benchmark Dataset},
   year         = {2026},
   howpublished = {EURECOM Semester Project},
